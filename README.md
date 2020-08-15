@@ -1,1 +1,1 @@
-# ServiceDAO
+# Basic service, DAO template
